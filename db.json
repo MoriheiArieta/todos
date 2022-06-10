@@ -1,0 +1,24 @@
+{
+
+  "todo": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "First Todo",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "Second Todo",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "Third Todo",
+      "completed": false
+    }
+  ]  
+  
+}
