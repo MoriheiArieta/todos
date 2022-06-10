@@ -18,6 +18,12 @@
       "id": 3,
       "title": "Third Todo",
       "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "title": "Fourth Todo",
+      "completed": true
     }
   ]  
   
